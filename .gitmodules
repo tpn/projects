@@ -4,3 +4,6 @@
 [submodule "ionescu007-SimpleVisor"]
 	path = ionescu007-SimpleVisor
 	url = https://github.com/ionescu007/SimpleVisor
+[submodule "windows-graphics-programming-src"]
+	path = windows-graphics-programming-src
+	url = https://github.com/tpn/windows-graphics-programming-src
