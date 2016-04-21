@@ -7,3 +7,18 @@
 [submodule "windows-graphics-programming-src"]
 	path = windows-graphics-programming-src
 	url = https://github.com/tpn/windows-graphics-programming-src
+[submodule "capstone"]
+	path = capstone
+	url = https://github.com/aquynh/capstone
+[submodule "EasyHook"]
+	path = EasyHook
+	url = https://github.com/EasyHook/EasyHook
+[submodule "mhook"]
+	path = mhook
+	url = https://github.com/martona/mhook
+[submodule "Deviare-InProc"]
+	path = Deviare-InProc
+	url = https://github.com/nektra/Deviare-InProc
+[submodule "AeonProfiler"]
+	path = AeonProfiler
+	url = https://github.com/botman99/AeonProfiler
