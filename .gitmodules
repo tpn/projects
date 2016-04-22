@@ -25,3 +25,6 @@
 [submodule "TurboPFor"]
 	path = TurboPFor
 	url = https://github.com/powturbo/TurboPFor
+[submodule "libvbyte"]
+	path = libvbyte
+	url = https://github.com/cruppstahl/libvbyte
