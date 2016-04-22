@@ -28,3 +28,6 @@
 [submodule "libvbyte"]
 	path = libvbyte
 	url = https://github.com/cruppstahl/libvbyte
+[submodule "microsoft-pdb"]
+	path = microsoft-pdb
+	url = https://github.com/Microsoft/microsoft-pdb
