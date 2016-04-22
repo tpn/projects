@@ -22,3 +22,6 @@
 [submodule "AeonProfiler"]
 	path = AeonProfiler
 	url = https://github.com/botman99/AeonProfiler
+[submodule "TurboPFor"]
+	path = TurboPFor
+	url = https://github.com/powturbo/TurboPFor
