@@ -31,3 +31,12 @@
 [submodule "microsoft-pdb"]
 	path = microsoft-pdb
 	url = https://github.com/Microsoft/microsoft-pdb
+[submodule "PolyHook"]
+	path = PolyHook
+	url = gh:stevemk14ebr/PolyHook
+[submodule "fibratus"]
+	path = fibratus
+	url = gh:rabbitstack/fibratus
+[submodule "stevemk14ebr-capstone"]
+	path = stevemk14ebr-capstone
+	url = gh:stevemk14ebr/capstone
