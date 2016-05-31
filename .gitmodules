@@ -40,3 +40,6 @@
 [submodule "stevemk14ebr-capstone"]
 	path = stevemk14ebr-capstone
 	url = gh:stevemk14ebr/capstone
+[submodule "medusa"]
+	path = medusa
+	url = https://github.com/wisk/medusa
