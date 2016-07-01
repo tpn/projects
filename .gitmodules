@@ -33,13 +33,13 @@
 	url = https://github.com/Microsoft/microsoft-pdb
 [submodule "PolyHook"]
 	path = PolyHook
-	url = gh:stevemk14ebr/PolyHook
+	url = https://github.com/stevemk14ebr/PolyHook
 [submodule "fibratus"]
 	path = fibratus
-	url = gh:rabbitstack/fibratus
+	url = https://github.com/rabbitstack/fibratus
 [submodule "stevemk14ebr-capstone"]
 	path = stevemk14ebr-capstone
-	url = gh:stevemk14ebr/capstone
+	url = https://github.com/stevemk14ebr/capstone
 [submodule "medusa"]
 	path = medusa
 	url = https://github.com/wisk/medusa
