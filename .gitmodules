@@ -43,3 +43,9 @@
 [submodule "medusa"]
 	path = medusa
 	url = https://github.com/wisk/medusa
+[submodule "HeapProfiler"]
+	path = HeapProfiler
+	url = https://github.com/kg/HeapProfiler
+[submodule "isa-l"]
+	path = isa-l
+	url = https://github.com/01org/isa-l
