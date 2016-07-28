@@ -49,3 +49,12 @@
 [submodule "isa-l"]
 	path = isa-l
 	url = https://github.com/01org/isa-l
+[submodule "Blackbone"]
+	path = Blackbone
+	url = https://github.com/DarthTon/Blackbone
+[submodule "DarkMMap"]
+	path = DarkMMap
+	url = https://github.com/DarthTon/DarkMMap
+[submodule "Xenos"]
+	path = Xenos
+	url = https://github.com/DarthTon/Xenos
