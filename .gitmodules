@@ -58,3 +58,18 @@
 [submodule "Xenos"]
 	path = Xenos
 	url = https://github.com/DarthTon/Xenos
+[submodule "processhacker2"]
+	path = processhacker2
+	url = https://github.com/processhacker2/processhacker2
+[submodule "ALPC"]
+	path = ALPC
+	url = https://github.com/avalon1610/ALPC
+[submodule "drmemory"]
+	path = drmemory
+	url = https://github.com/dynamorio/drmemory
+[submodule "dynamorio"]
+	path = dynamorio
+	url = https://github.com/DynamoRIO/dynamorio
+[submodule "LPC"]
+	path = LPC
+	url = https://github.com/avalon1610/LPC
