@@ -73,3 +73,9 @@
 [submodule "LPC"]
 	path = LPC
 	url = https://github.com/avalon1610/LPC
+[submodule "HexRaysCodeXplorer"]
+	path = HexRaysCodeXplorer
+	url = https://github.com/REhints/HexRaysCodeXplorer
+[submodule "hexrays-python"]
+	path = hexrays-python
+	url = https://github.com/EiNSTeiN-/hexrays-python
