@@ -79,3 +79,12 @@
 [submodule "hexrays-python"]
 	path = hexrays-python
 	url = https://github.com/EiNSTeiN-/hexrays-python
+[submodule "ida_ifl"]
+	path = ida_ifl
+	url = https://github.com/hasherezade/ida_ifl
+[submodule "Kam1n0-Plugin-IDA-Pro"]
+	path = Kam1n0-Plugin-IDA-Pro
+	url = https://github.com/McGill-DMaS/Kam1n0-Plugin-IDA-Pro
+[submodule "funcap"]
+	path = funcap
+	url = https://github.com/deresz/funcap
