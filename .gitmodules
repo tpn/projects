@@ -88,3 +88,6 @@
 [submodule "funcap"]
 	path = funcap
 	url = https://github.com/deresz/funcap
+[submodule "SLAyer"]
+	path = SLAyer
+	url = https://github.com/Microsoft/SLAyer
