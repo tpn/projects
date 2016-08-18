@@ -91,3 +91,6 @@
 [submodule "SLAyer"]
 	path = SLAyer
 	url = https://github.com/Microsoft/SLAyer
+[submodule "z3"]
+	path = z3
+	url = https://github.com/Z3Prover/z3
