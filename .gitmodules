@@ -91,3 +91,6 @@
 [submodule "SLAyer"]
 	path = SLAyer
 	url = https://github.com/Microsoft/SLAyer
+[submodule "Scylla"]
+	path = Scylla
+	url = https://github.com/NtQuery/Scylla
