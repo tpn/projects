@@ -94,3 +94,12 @@
 [submodule "z3"]
 	path = z3
 	url = https://github.com/Z3Prover/z3
+[submodule "pyxed"]
+	path = pyxed
+	url = https://github.com/huku-/pyxed
+[submodule "pintools"]
+	path = pintools
+	url = https://github.com/jingpu/pintools
+[submodule "strata"]
+	path = strata
+	url = https://github.com/StanfordPL/strata
