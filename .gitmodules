@@ -85,7 +85,6 @@
 [submodule "Kam1n0-Plugin-IDA-Pro"]
 	path = Kam1n0-Plugin-IDA-Pro
 	url = https://github.com/McGill-DMaS/Kam1n0-Plugin-IDA-Pro
-[submodule "funcap"]
 	path = funcap
 	url = https://github.com/deresz/funcap
 [submodule "SLAyer"]
@@ -103,3 +102,6 @@
 [submodule "strata"]
 	path = strata
 	url = https://github.com/StanfordPL/strata
+[submodule "Scylla"]
+	path = Scylla
+	url = https://github.com/NtQuery/Scylla
