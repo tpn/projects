@@ -105,3 +105,9 @@
 [submodule "Scylla"]
 	path = Scylla
 	url = https://github.com/NtQuery/Scylla
+[submodule "distormx"]
+	path = distormx
+	url = https://github.com/gdabah/distormx
+[submodule "Simd"]
+	path = Simd
+	url = gh:ermig1979/Simd
