@@ -111,3 +111,6 @@
 [submodule "Simd"]
 	path = Simd
 	url = gh:ermig1979/Simd
+[submodule "stackwalker"]
+	path = stackwalker
+	url = https://git01.codeplex.com/stackwalker
