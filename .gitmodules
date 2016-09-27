@@ -111,3 +111,6 @@
 [submodule "Simd"]
 	path = Simd
 	url = gh:ermig1979/Simd
+[submodule "x64dbg"]
+	path = x64dbg
+	url = https://github.com/x64dbg/x64dbg
