@@ -117,3 +117,6 @@
 [submodule "x64dbg"]
 	path = x64dbg
 	url = https://github.com/x64dbg/x64dbg
+[submodule "osquery"]
+	path = osquery
+	url = https://github.com/facebook/osquery
