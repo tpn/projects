@@ -114,3 +114,9 @@
 [submodule "stackwalker"]
 	path = stackwalker
 	url = https://git01.codeplex.com/stackwalker
+[submodule "trove"]
+	path = trove
+	url = https://github.com/BryanCatanzaro/trove
+[submodule "copperhead"]
+	path = copperhead
+	url = https://github.com/BryanCatanzaro/copperhead
