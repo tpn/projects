@@ -126,3 +126,6 @@
 [submodule "osquery"]
 	path = osquery
 	url = https://github.com/facebook/osquery
+[submodule "copperhead-compiler"]
+	path = copperhead-compiler
+	url = https://github.com/BryanCatanzaro/copperhead-compiler
