@@ -129,3 +129,9 @@
 [submodule "copperhead-compiler"]
 	path = copperhead-compiler
 	url = https://github.com/BryanCatanzaro/copperhead-compiler
+[submodule "windows-binary-tools"]
+	path = windows-binary-tools
+	url = https://github.com/arizvisa/windows-binary-tools
+[submodule "honest-profiler"]
+	path = honest-profiler
+	url = https://github.com/RichardWarburton/honest-profiler
