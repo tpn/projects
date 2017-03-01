@@ -135,3 +135,6 @@
 [submodule "honest-profiler"]
 	path = honest-profiler
 	url = https://github.com/RichardWarburton/honest-profiler
+[submodule "dennis714-tracer"]
+	path = dennis714-tracer
+	url = https://github.com/dennis714/tracer
